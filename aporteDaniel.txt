@@ -1,0 +1,9 @@
+Casos de uso comunes de Figma en proyectos de diseño
+Figma es una herramienta ampliamente utilizada en proyectos de diseño debido a su versatilidad y funcionalidades que permiten a los diseñadores crear diseños de alta calidad de manera eficiente. Algunos casos de uso comunes de Figma incluyen:
+Ideación y selección de favoritos: Permite a los equipos idear y seleccionar las mejores ideas.
+Diagramación: Utilizado para mapear flujos complejos en el diseño.
+Reuniones de equipo: Facilita la interacción en reuniones y sesiones de trabajo colaborativo.
+Plantillas para diversos propósitos: Ofrece plantillas para diferentes etapas de un proyecto, como reuniones iniciales o retrospectivas.
+Planificación estratégica: Ayuda en la planificación estratégica de los proyectos de diseño.
+Estos son solo algunos ejemplos de cómo Figma es utilizado en la industria del diseño. Además, Figma sirve como un pizarrón digital en tiempo real, facilita la creación rápida de prototipos, permite la visualización creativa de datos, y contribuye a la creación de sistemas de diseño, documentos y facturas, entre otros usos innovadores.
+En resumen, Figma se destaca por su capacidad para mejorar la colaboración, la eficiencia en el diseño y la creación de productos visuales de alta calidad en diversos contextos de diseño.
